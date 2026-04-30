@@ -1,0 +1,5 @@
+{"turnIndex":1,"event":"no_choices_reroll","rerollAttempt":1,"timestamp":"2026-04-29T20:48:01.899Z"}
+{"turnIndex":1,"event":"no_choices_reroll","rerollAttempt":2,"timestamp":"2026-04-29T20:50:05.408Z"}
+{"turnIndex":1,"event":"no_choices_reroll","rerollAttempt":3,"timestamp":"2026-04-29T20:52:07.651Z"}
+{"turnIndex":1,"timestamp":"2026-04-29T20:54:06.695Z","availableChoices":[{"text":"Consult Helena on rerouting power to stabilize Sector One's life support.","type":"dialogue"},{"text":"Use your electromagnetic dampening field against the systemic signature jump.","type":"action"},{"text":"Demand Dr. Ren analyze the new 'mirror' state of the Entity’s blueprint.","type":"dialogue"},{"text":"Examine the containment seal schematics for a structural counter-frequency pulse.","type":"examine"}],"selectedChoice":{"text":"Examine the containment seal schematics for a structural counter-frequency pulse.","type":"examine"}}
+{"turnIndex":2,"event":"no_choices_reroll","rerollAttempt":1,"timestamp":"2026-04-29T20:57:34.933Z"}
