@@ -3,7 +3,7 @@
   "task": "narrative",
   "serviceName": "narrative:result",
   "category": "narrative",
-  "source_file": "C:\\Users\\Martin\\Downloads\\GEMMA training folder\\original debug\\ai_debug_no_choices_reroll_2026-04-30T02-41-22-186Z.jsonl",
+  "source_file": "D:\\GEMMA training folder\\original debug\\STORY RUN 1_ORIGINAL DEBUG DNU\\ai_debug_no_choices_reroll_2026-04-30T02-41-22-186Z.jsonl",
   "source_line": 2,
   "timestamp": "2026-04-30T02:40:54.709Z",
   "model": "google/gemma-4-e4b",
